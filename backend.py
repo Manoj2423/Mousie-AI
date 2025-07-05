@@ -9,7 +9,7 @@ from ecapture import ecapture as ec
 from groq import Groq
 
 # Set up GROQ API
-GROQ_API_KEY = "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"  # Replace with your GROQ API key
+GROQ_API_KEY = "GROQ-API-KEY"  # Replace with your GROQ API key
 
 client = Groq(api_key=GROQ_API_KEY)
 
